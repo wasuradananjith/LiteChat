@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "510498441155",
+    "firebase_url": "https://litechat-2c23b.firebaseio.com",
+    "project_id": "litechat-2c23b",
+    "storage_bucket": "litechat-2c23b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510498441155:android:c6ede7c00a6650b8",
+        "android_client_info": {
+          "package_name": "com.google.wdworks.wasuradananjith.litechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510498441155-3br2ccm1k5nsrl3ks5p9eaiflr0dm91e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.wdworks.wasuradananjith.litechat",
+            "certificate_hash": "df91da77598cbdc8e83bbe8b5261374bd25aa0a9"
+          }
+        },
+        {
+          "client_id": "510498441155-f1ucuu6rm8kp70jr85fjv4vg8f24gppd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbFJjwpsm9utcL9EwFKhMuj8JmcjtVe8A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510498441155-f1ucuu6rm8kp70jr85fjv4vg8f24gppd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
